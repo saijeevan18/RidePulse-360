@@ -611,37 +611,6 @@ The dashboard includes:
 
 ------------------------------------------------------------------------
 
-# 📁 Recommended GitHub Repository Structure
-
-``` text
-RidePulse-360/
-│
-├── README.md
-│
-├── Dashboard/
-│   └── RidePulse_360.pbix
-│
-├── Dataset/
-│   └── ride_booking_dataset.xlsx
-│
-├── Screenshots/
-│   ├── home.png
-│   ├── overview.png
-│   ├── operations.png
-│   ├── vehicle-type.png
-│   ├── revenue.png
-│   └── location.png
-│
-└── Documentation/
-    └── project-notes.md
-```
-
-> If the original dataset cannot be redistributed, keep the dataset out
-> of the public repository and document the expected source/schema
-> instead.
-
-------------------------------------------------------------------------
-
 # 🚀 How to Use
 
 ### 1. Clone or download the repository
